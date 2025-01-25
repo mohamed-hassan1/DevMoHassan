@@ -35,7 +35,6 @@ Front-End Web Developer with over 5 years of freelance experience in crafting re
 - Converted PSD and Figma designs into fully functional and pixel-perfect web pages.
 - Enhanced user interfaces using CSS animations, transitions, and JavaScript interactivity.
 - Utilized Bootstrap and TailwindCSS frameworks to streamline development and ensure mobile responsiveness.
-- Maintained project repositories on GitHub and collaborated with clients for feedback and revisions.
 - Delivered projects on time while ensuring cross-browser compatibility and performance optimization.
 - Achieved a 100% Job Success Score and 5-star ratings on Upwork, with exceptional client reviews.
 
