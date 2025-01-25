@@ -3,9 +3,6 @@
 **Contact Information:**
 
 - Location: Mansoura, Egypt
-- Behance: [behance.net/mhdeveloper](https://www.behance.net/mhdeveloper)
-- Upwork: [upwork.com/freelancers/~01daaf00ea9f1b929d](https://www.upwork.com/freelancers/~01daaf00ea9f1b929d)
-- Portfolio: [mhdeveloper.com](http://www.mhdeveloper.com)
 - Email: [devmohassan@gmail.com](mailto:devmohassan@gmail.com)
 
 ---
@@ -62,7 +59,6 @@ Front-End Web Developer with over 5 years of freelance experience in crafting re
 
 ### **Portfolio**
 
-- GitHub: [github.com/mohamed-hassan1](https://github.com/mohamed-hassan1)
 - Behance: [behance.net/mhdeveloper](https://www.behance.net/mhdeveloper)
 - Upwork: [upwork.com/freelancers/~01daaf00ea9f1b929d](https://www.upwork.com/freelancers/~01daaf00ea9f1b929d)
 - Portfolio: [mhdeveloper.com](http://www.mhdeveloper.com)
