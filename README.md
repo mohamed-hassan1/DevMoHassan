@@ -57,9 +57,9 @@ Front-End Web Developer with over 5 years of freelance experience in crafting re
 
 ### **Portfolio**
 
+- Portfolio: [mhdeveloper.com](http://www.mhdeveloper.com)
 - Behance: [behance.net/mhdeveloper](https://www.behance.net/mhdeveloper)
 - Upwork: [upwork.com/freelancers/~01daaf00ea9f1b929d](https://www.upwork.com/freelancers/~01daaf00ea9f1b929d)
-- Portfolio: [mhdeveloper.com](http://www.mhdeveloper.com)
 
 ---
 
