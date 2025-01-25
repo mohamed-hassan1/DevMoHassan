@@ -5,7 +5,7 @@
 
 ---
 
-### **Professional Summary**
+### **Summary**
 
 Front-End Web Developer with over 5 years of freelance experience in crafting responsive, user-friendly, and visually appealing websites. Proficient in HTML, CSS, JavaScript, and adept at using modern frameworks like Bootstrap and TailwindCSS. Skilled in translating design concepts from PSD and Figma into functional, high-quality websites. Experienced in UI/UX design, specializing in dashboards, systems, and form interfaces. Highly skilled in creating custom scripts and libraries using vanilla JavaScript. Committed to delivering projects that combine strong design aesthetics with excellent performance. Recognized on Upwork with a 100% Job Success Score, 5-star ratings, and outstanding client reviews.
 
@@ -24,7 +24,7 @@ Front-End Web Developer with over 5 years of freelance experience in crafting re
 
 ---
 
-### **Professional Experience**
+### **Experience**
 
 **Freelance Front-End Developer**\
 *2018 - Present*
