@@ -1,5 +1,3 @@
-**Mohamed Hassan**
-
 **Contact Information:**
 
 - Location: Mansoura, Egypt
